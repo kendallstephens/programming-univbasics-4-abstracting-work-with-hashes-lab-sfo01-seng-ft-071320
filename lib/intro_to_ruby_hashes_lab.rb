@@ -14,4 +14,4 @@ def update_counting_hash(hash, key)
 else
   puts [key]
 end
-end
+
